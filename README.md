@@ -40,6 +40,7 @@
 1. grep的用法
 1. Array, List, Linked List的分別？
 1. [你知道如何用Git嗎？](https://calpa.me/2017/04/01/git-workflow/)
-
+1. TCP中的三次握手
+1. OSI Model
 # 答案
 這些問題不像學校的考試，沒有標準去判斷對與錯。如果你對於這些問題已經有答案的話，不妨Star這個Repo，開一個Issue，一起討論一下（逃。。。
